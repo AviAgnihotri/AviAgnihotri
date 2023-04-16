@@ -11,7 +11,7 @@
 </div> 
 
 ## 💫 About Me:
-🔭 I’m currently working on my Machine Learning Skills<br>👯 I’m looking to collaborate on ML projects.
+🔭 I’m currently working on my Machine Learning Skills.<br>👯 I’m looking to collaborate on ML projects.
 
 <!--
 ## 🌐 Socials:
@@ -39,13 +39,16 @@
   <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-dd1b16.svg?style=flat-square&logo=angular&logoColor=white"></a>
  </p>
  <h3>🗄️ Infrastructure and DevOps</h3>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white"></a>
-  <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"></a>
-  <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=flat-square&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-010101.svg?style=flat-square&logo=amazon&logoColor=%23FF9900"></a>
+  <p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat-square&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?style=flat-square&logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat-square&logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?style=flat-square&logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-010101.svg?style=flat-square&logo=amazon&logoColor=%23FF9900"></a>
+  </p>
  <h3>💻 ML/DL</h3>
  <p>
   <a href="#"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" /></a> 
@@ -77,7 +80,7 @@
  <div align='center'>
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Avi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=AviAgnihotri&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px">
-</a> &nbsp;
+</a> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img alt="Avi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AviAgnihotri&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px">
 </a>

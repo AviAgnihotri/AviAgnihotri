@@ -19,7 +19,7 @@
 </div> 
 
 ## 💫 About Me:
-🔭 I’m currently working on my Machine Learning Skills.<br>👯 I’m looking to collaborate on ML projects.
+🔭 I’m currently working on my Machine Learning skills.<br>👯 I’m looking to collaborate on ML projects.
 
 <!--
 ## 🌐 Socials:

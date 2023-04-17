@@ -71,7 +71,7 @@
 ## 🔥 Streak Stats:
  <div align='center'>
  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <p><img src="https://streak-stats.demolab.com?user=AviAgnihotri&theme=monokai-metallian&hide_border=true&mode=weekly&fire=DD2727"></p>
+  <p><img src="https://streak-stats.demolab.com?user=AviAgnihotri&theme=monokai-metallian&hide_border=true&mode=daily&fire=DD2727"></p>
 </a>
   </div>
   

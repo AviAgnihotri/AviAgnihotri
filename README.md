@@ -2,10 +2,10 @@
 <!-- Social Media -->
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/avi-agnihotri-564016204/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://twitter.com/TheAviAgnihotri">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
   </a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=AviAgnihotri&style=for-the-badge&color=red" alt="Profile Views"></a>
 </div> 

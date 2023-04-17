@@ -1,4 +1,5 @@
 <!-- Intro Section  -->
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"  /></p>
 <div id="about-me" align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Avi+Agnihotri!;I+am+a+developing+ML+Enthusiast." alt="Typing SVG" /></a>
 </div>

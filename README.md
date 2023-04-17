@@ -1,3 +1,7 @@
+<!-- Intro Section  -->
+<div id="about-me" align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=500&size=25&duration=4000&pause=500&color=EB5775&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Avi+Agnihotri!;I+am+a+developing+ML+Enthusiast." alt="Typing SVG" /></a>
+</div>
 
 <!-- Social Media -->
 <div id="badges" align="center">
@@ -6,6 +10,9 @@
   </a>
   <a href="https://twitter.com/TheAviAgnihotri">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+  </a>
+  <a href="https://www.instagram.com/_avi.agnihotri_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Twitter Badge">
   </a>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=AviAgnihotri&style=for-the-badge&color=red" alt="Profile Views"></a>
 </div> 
